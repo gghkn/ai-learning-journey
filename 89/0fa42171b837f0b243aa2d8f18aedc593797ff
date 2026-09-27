@@ -1,0 +1,49 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.8",
+  "base_commit_sha": "890fa42171b837f0b243aa2d8f18aedc593797ff",
+  "prompts": {},
+  "commit_stats": {
+    "git_diff_added_lines": 214,
+    "git_diff_deleted_lines": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "BYMC": 214,
+    "mixed_additions": 0,
+    "BYAC": 0,
+    "BYRC": 0,
+    "per_file": {
+      "AI_notebooks/01_ai-checkpoint.ipynb": {
+        "BYMC": [
+          "1-188"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "AI_notebooks/scores.csv": {
+        "BYMC": [
+          "1-4"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "README.md": {
+        "BYMC": [
+          "1-16"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "notes/01-checkpoint.md": {
+        "BYMC": [
+          "1-6"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      }
+    }
+  },
+  "commit_timestamp": 1790500818,
+  "requirement_id": ""
+}
