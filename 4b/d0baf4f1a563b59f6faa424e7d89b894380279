@@ -1,0 +1,147 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.8",
+  "base_commit_sha": "4bd0baf4f1a563b59f6faa424e7d89b894380279",
+  "prompts": {},
+  "commit_stats": {
+    "git_diff_added_lines": 1233,
+    "git_diff_deleted_lines": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "BYMC": 1233,
+    "mixed_additions": 0,
+    "BYAC": 0,
+    "BYRC": 0,
+    "per_file": {
+      "phase1/exercises/1、基础语法/.ipynb_checkpoints/01_topic-checkpoint.ipynb": {
+        "BYMC": [
+          "1-105"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/.ipynb_checkpoints/02_topic-checkpoint.ipynb": {
+        "BYMC": [
+          "1-81"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/.ipynb_checkpoints/03_topic-checkpoint.ipynb": {
+        "BYMC": [
+          "1-64"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/.ipynb_checkpoints/04_topic-checkpoint.ipynb": {
+        "BYMC": [
+          "1-314"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/01_topic.ipynb": {
+        "BYMC": [
+          "1-105"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/02_topic.ipynb": {
+        "BYMC": [
+          "1-81"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/03_topic.ipynb": {
+        "BYMC": [
+          "1-64"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/1、基础语法/04_topic.ipynb": {
+        "BYMC": [
+          "1-314"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/2、进阶语法/.ipynb_checkpoints/topic1-checkpoint.ipynb": {
+        "BYMC": [
+          "1-6"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/exercises/2、进阶语法/topic1.ipynb": {
+        "BYMC": [
+          "1-33"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/.ipynb_checkpoints/topic1_code_analysis-checkpoint.md": {
+        "BYMC": [
+          "1-9"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/.ipynb_checkpoints/topic2_code_analysis-checkpoint.md": {
+        "BYMC": [
+          "1-6"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/.ipynb_checkpoints/topic3_code_analysis-checkpoint.md": {
+        "BYMC": [
+          "1-12"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/.ipynb_checkpoints/topic4_code_analysis-checkpoint.md": {
+        "BYMC": [
+          "1-6"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/topic1_code_analysis.md": {
+        "BYMC": [
+          "1-9"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/topic2_code_analysis.md": {
+        "BYMC": [
+          "1-6"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/topic3_code_analysis.md": {
+        "BYMC": [
+          "1-12"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      },
+      "phase1/notes/topic4_code_analysis.md": {
+        "BYMC": [
+          "1-6"
+        ],
+        "BYAC": [],
+        "BYRC": []
+      }
+    }
+  },
+  "commit_timestamp": 1790586672,
+  "requirement_id": ""
+}
